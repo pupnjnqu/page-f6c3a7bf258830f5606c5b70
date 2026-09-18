@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "03be18d5c48e176268995abe",
+  "owner": "pupnjnqu",
+  "repo": "page-f6c3a7bf258830f5606c5b70",
+  "title": "oixCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f6c3a7bf258830f5606c5b70",
+      "a": "oixCloud",
+      "b": "Clash Mi服务商官网",
+      "entity": "oixCloud",
+      "brand": "oixCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "34ac9a57e3c7b04368c566afaa7c335c8468d15a12653074fec92c04ceb28395",
+      "content": {
+        "primary_entity": "oixCloud",
+        "keyword1": "oixCloud",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_DESCRIPTION": "，oixCloud 提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速优化，团队版配备 VIP 专属高带宽节点。可按年付节省费用，并依客户端文档配置订阅。",
+          "AI_HERO_SUBTITLE": "选对套餐，连得更稳",
+          "AI_HERO_INTRO": "oixCloud 是面向海外加速场景的订阅服务，按设备数量与月流量划分套餐。基础版适合个人轻度使用，旗舰版兼顾流媒体与游戏加速，团队版满足多设备高带宽需求。",
+          "AI_VISUAL_TITLE": "oixCloud 加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_FEATURES_TITLE": "订阅前先看这三点",
+          "AI_FEATURES_INTRO": "先确认设备数量与月流量需求，再对比套餐权益和付费周期。",
+          "AI_FEATURE_TITLE_1": "按设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可达 20 台，按常用设备数匹配更合适。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，流量需求高可选高带宽节点。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付 150 元，旗舰版 350 元，团队版 850 元，长期使用可选年付降低月均成本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统适配的订阅客户端不同，请根据设备类型参考对应文档完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版按月流量和设备数量区分，年付价格分别为 150 元、350 元、850 元。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "确定套餐后，按设备查看适配要求，再依客户端文档导入订阅即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版之间选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统支持的订阅客户端类型，并核对设备数量上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅链接，完成节点选择与连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "开始使用 oixCloud",
+          "AI_CLOSING_TEXT": "选好套餐，按设备文档完成订阅配置，即可体验海外加速。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机加电脑的轻量使用场景。",
+          "AI_FAQ_ANSWER_2": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按月付费也可随时切换。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备，团队版支持 20 台设备，覆盖手机、平板、电脑等常用终端。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中添加订阅地址，更新节点后选择对应线路连接；具体步骤可参考客户端自带文档。",
+          "AI_FAQ_ANSWER_5": "先确认主要使用的设备数量与月流量需求，再对比各套餐年付价格，旗舰版适合多设备流媒体与游戏加速。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里导入订阅？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c1fe8f07828a8b980334d09cad1d0b4175de2947d24c58a9731137adc8bb3148",
+    "sitemap.xml": "d5e6700e647102e7867d0551a62a234b5fc79ff5fbbf96175cd10a2cec1fc954",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a77953821cfec726bf344391020d8be12226374e74f383c278be98928b402670"
+}
